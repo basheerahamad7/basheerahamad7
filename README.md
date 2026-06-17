@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Dev for Mobile & Web apps, from Hyderabad, India.<br>🛠️ Working Building large scale App<br>✨ Creating bugs since 2024<br>📚 I'm currently learning System Design
+I'm a Software Dev for Mobile & Web apps, from Hyderabad, India.<br>🛠️ Working on Building large scale App<br>✨ Creating bugs since 2024<br>📚 I'm currently learning System Design
 
 
 ## 🌐 Socials:

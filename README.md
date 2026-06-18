@@ -1,9 +1,10 @@
-# 💫 About Me
+# 💫 Who, Why & What
 
-I'm a Software Developer<br/>
+I'm a Software Developer who turns coffee into code.<br/>
 🛠️ Building scalable mobile and web applications<br/>
-✨ Creating bugs since 2024<br/>
-📚 Currently learning System Design & Software Architecture
+⚡ Obsessed with clean code, performance, and scalability<br/>
+🐛 Creating bugs since 2024 and fixing most of them<br/>
+📚 Currently diving deep into System Design & Architecture
 
 # 💻 Tech Stack
 

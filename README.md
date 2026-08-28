@@ -40,11 +40,3 @@ I'm a Software Developer who turns coffee into code.<br/>
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Bashir2542)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/TheBorz7)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bashircr17@gmail.com)
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=basheerahamad7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=basheerahamad7&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=basheerahamad7&theme=tokyonight&hide_border=true&layout=compact)

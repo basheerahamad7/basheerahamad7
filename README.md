@@ -1,4 +1,4 @@
-# 💫 Who, Why & What
+#  Who, Why & What
 
 I'm a Software Developer who turns coffee into code.<br/>
 🛠️ Building scalable mobile and web applications<br/>
